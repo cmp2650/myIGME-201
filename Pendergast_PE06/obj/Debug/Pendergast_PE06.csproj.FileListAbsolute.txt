@@ -1,0 +1,8 @@
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_PE06\bin\Debug\Pendergast_PE06.exe.config
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_PE06\bin\Debug\Pendergast_PE06.exe
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_PE06\bin\Debug\Pendergast_PE06.pdb
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_PE06\obj\Debug\Pendergast_PE06.csproj.AssemblyReference.cache
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_PE06\obj\Debug\Pendergast_PE06.csproj.SuggestedBindingRedirects.cache
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_PE06\obj\Debug\Pendergast_PE06.csproj.CoreCompileInputs.cache
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_PE06\obj\Debug\Pendergast_PE06.exe
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_PE06\obj\Debug\Pendergast_PE06.pdb
