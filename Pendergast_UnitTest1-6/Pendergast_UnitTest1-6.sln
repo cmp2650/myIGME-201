@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pendergast_UnitTest1-6", "Pendergast_UnitTest1-6.csproj", "{CB5F6C18-F28A-49B4-A532-11ACD4B7071D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB5F6C18-F28A-49B4-A532-11ACD4B7071D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB5F6C18-F28A-49B4-A532-11ACD4B7071D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB5F6C18-F28A-49B4-A532-11ACD4B7071D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB5F6C18-F28A-49B4-A532-11ACD4B7071D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFDB26A5-B903-4743-A4EB-D5B68BBB74E0}
+	EndGlobalSection
+EndGlobal
