@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pendergast_UnitTest1-7", "Pendergast_UnitTest1-7.csproj", "{B1B0ADB1-15E5-4230-B431-C077CE8CB75A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pendergast_UnitTest1-7", "Pendergast_UnitTest1-7.csproj", "{589EB27A-0992-4804-A23D-3B2C130D5BD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B1B0ADB1-15E5-4230-B431-C077CE8CB75A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B1B0ADB1-15E5-4230-B431-C077CE8CB75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B1B0ADB1-15E5-4230-B431-C077CE8CB75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B1B0ADB1-15E5-4230-B431-C077CE8CB75A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{589EB27A-0992-4804-A23D-3B2C130D5BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589EB27A-0992-4804-A23D-3B2C130D5BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589EB27A-0992-4804-A23D-3B2C130D5BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589EB27A-0992-4804-A23D-3B2C130D5BD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6A83404D-F04B-4EAA-9CA9-EFBAC7F7CE7B}
+		SolutionGuid = {53DFB3C0-B57D-46E4-B78B-A4555354F884}
 	EndGlobalSection
 EndGlobal

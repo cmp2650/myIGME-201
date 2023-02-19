@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B1B0ADB1-15E5-4230-B431-C077CE8CB75A}</ProjectGuid>
+    <ProjectGuid>{589EB27A-0992-4804-A23D-3B2C130D5BD6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Pendergast_UnitTest1_7</RootNamespace>
     <AssemblyName>Pendergast_UnitTest1-7</AssemblyName>
