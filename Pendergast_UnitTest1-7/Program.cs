@@ -24,7 +24,7 @@ namespace Pendergast_UnitTest1_7
             {
                 Console.Write("Enter a whole number for x: ");
                 // Console.ReadLine(): compiling error sNumber is undefined and readline isnt storing sNumbers value
-                sNumber= Console.ReadLine();
+                sNumber = Console.ReadLine();
             } while (!int.TryParse(sNumber, out nX));
 
             do
