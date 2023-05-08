@@ -36,9 +36,7 @@ namespace Pendergast_FinalExam_4
             }
 
             bool[] visited = new bool[adjacencyMatrix.GetLength(0)];
-
             DFS(0); // start from red
-
 
             void DFS(int vertex)
             {
@@ -63,24 +61,21 @@ namespace Pendergast_FinalExam_4
                     case 1:
                         return "gray";
                     case 2:
-                        return "Dark Blue";
+                        return "dark blue";
                     case 3:
-                        return "Light Blue";
+                        return "light blue";
                     case 4:
-                        return "Orange";
+                        return "orange";
                     case 5:
-                        return "Yellow";
+                        return "yellow";
                     case 6:
-                        return "Purple";
+                        return "purple";
                     case 7:
-                        return "Green";
+                        return "green";
                     default:
                         return "";
                 }
             }
         }
-
-
-
     }
 }

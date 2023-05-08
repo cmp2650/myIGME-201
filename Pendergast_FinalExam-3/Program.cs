@@ -10,16 +10,15 @@ namespace Pendergast_FinalExam_3
     {
         static void Main(string[] args)
         {
-            // 0 = red, 1 = gray, 2 = dark blue, 3 = light blue, 4 = orange, 5 = yellow, 6 = purple, 7 = green
             int[,] adjacencyMatrix = {
-                {0, 5, 1, 0, 0, 0, 0, 0}, // 0
-                {0, 0, 0, 0, 1, 0, 0, 0}, // 1
-                {0, 0, 0, 1, 0, 0, 0, 0}, // 2
-                {0, 0, 1, 0, 0, 0, 0, 0}, // 3
-                {0, 0, 0, 0, 0, 0, 1, 0}, // 4
-                {0, 0, 0, 0, 0, 0, 1, 6}, // 5
-                {0, 0, 0, 0, 0, 1, 0, 0}, // 6
-                {0, 0, 0, 0, 0, 1, 0, 0}, // 7
+                {0, 5, 1, 0, 0, 0, 0, 0}, // 0 = red
+                {0, 0, 0, 0, 1, 0, 0, 0}, // 1 = gray
+                {0, 0, 0, 1, 0, 0, 0, 0}, // 2 = dark blue
+                {0, 0, 1, 0, 0, 0, 0, 0}, // 3 = light blue
+                {0, 0, 0, 0, 0, 0, 1, 0}, // 4 = orange
+                {0, 0, 0, 0, 0, 0, 1, 6}, // 5 = yellow
+                {0, 0, 0, 0, 0, 1, 0, 0}, // 6 = purple
+                {0, 0, 0, 0, 0, 1, 0, 0}, // 7 = green
             };
 
             // converts array into list

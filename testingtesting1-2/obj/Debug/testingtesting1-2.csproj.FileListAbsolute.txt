@@ -1,0 +1,8 @@
+C:\Users\chloe\source\repos\myIGME-201\testingtesting1-2\bin\Debug\testingtesting1-2.exe.config
+C:\Users\chloe\source\repos\myIGME-201\testingtesting1-2\bin\Debug\testingtesting1-2.exe
+C:\Users\chloe\source\repos\myIGME-201\testingtesting1-2\bin\Debug\testingtesting1-2.pdb
+C:\Users\chloe\source\repos\myIGME-201\testingtesting1-2\obj\Debug\testingtesting1-2.csproj.AssemblyReference.cache
+C:\Users\chloe\source\repos\myIGME-201\testingtesting1-2\obj\Debug\testingtesting1-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\chloe\source\repos\myIGME-201\testingtesting1-2\obj\Debug\testingtesting1-2.csproj.CoreCompileInputs.cache
+C:\Users\chloe\source\repos\myIGME-201\testingtesting1-2\obj\Debug\testingtesting1-2.exe
+C:\Users\chloe\source\repos\myIGME-201\testingtesting1-2\obj\Debug\testingtesting1-2.pdb

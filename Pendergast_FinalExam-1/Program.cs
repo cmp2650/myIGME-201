@@ -54,20 +54,20 @@ namespace Pendergast_FinalExam_1
             stack.Push(20);
             stack.Push(30);
 
-            Console.WriteLine(stack.Peek()); // Output: 30
+            Console.WriteLine(stack.Peek());
 
-            Console.WriteLine(stack.Pop());  // Output: 30
-            Console.WriteLine(stack.Pop());  // Output: 20
+            Console.WriteLine(stack.Pop());  
+            Console.WriteLine(stack.Pop()); 
 
             stack.Push(40);
 
-            Console.WriteLine(stack.Peek()); // Output: 40
+            Console.WriteLine(stack.Peek());
 
-            Console.WriteLine(stack.Pop());  // Output: 40
-            Console.WriteLine(stack.Pop());  // Output: 10
+            Console.WriteLine(stack.Pop()); 
+            Console.WriteLine(stack.Pop());
 
             // Trying to pop an empty stack will throw an exception
-            Console.WriteLine(stack.Pop());  // Throws InvalidOperationException
+            Console.WriteLine(stack.Pop()); 
         }
     }
 }

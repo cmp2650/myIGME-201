@@ -1,0 +1,8 @@
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_UnitTest1\bin\Debug\Pendergast_UnitTest1.exe.config
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_UnitTest1\bin\Debug\Pendergast_UnitTest1.exe
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_UnitTest1\bin\Debug\Pendergast_UnitTest1.pdb
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_UnitTest1\obj\Debug\Pendergast_UnitTest1.csproj.AssemblyReference.cache
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_UnitTest1\obj\Debug\Pendergast_UnitTest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_UnitTest1\obj\Debug\Pendergast_UnitTest1.csproj.CoreCompileInputs.cache
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_UnitTest1\obj\Debug\Pendergast_UnitTest1.exe
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_UnitTest1\obj\Debug\Pendergast_UnitTest1.pdb

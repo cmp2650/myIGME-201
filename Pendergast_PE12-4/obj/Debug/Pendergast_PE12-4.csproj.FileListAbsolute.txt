@@ -1,0 +1,6 @@
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_PE12-4\bin\Debug\Pendergast_PE12-4.dll
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_PE12-4\bin\Debug\Pendergast_PE12-4.pdb
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_PE12-4\obj\Debug\Pendergast_PE12-4.csproj.AssemblyReference.cache
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_PE12-4\obj\Debug\Pendergast_PE12-4.csproj.CoreCompileInputs.cache
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_PE12-4\obj\Debug\Pendergast_PE12-4.dll
+C:\Users\chloe\source\repos\myIGME-201\Pendergast_PE12-4\obj\Debug\Pendergast_PE12-4.pdb

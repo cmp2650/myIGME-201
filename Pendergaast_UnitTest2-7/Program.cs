@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Pendergaast_UnitTest2_7
 {
+    // 4
     public abstract class Phone
     {
         private string phoneNumber;
@@ -77,86 +78,86 @@ namespace Pendergaast_UnitTest2_7
 
         public void TimeTravel() { }
 
+        // 5
 
-
-        public static bool operator ==(Tardis t1, Tardis t2)
+        public static bool operator ==(Tardis tardis1, Tardis tardis2)
         {
-            if (t1 is null && t2 is null)
+            if (tardis1 is null && tardis2 is null)
                 return true;
-            if (t1 is null || t2 is null)
+            if (tardis1 is null || tardis2 is null)
                 return false;
 
-            if (t1.whichDrWho == 10 && t2.whichDrWho != 10)
+            if (tardis1.whichDrWho == 10 && tardis2.whichDrWho != 10)
                 return true;
-            else if (t1.whichDrWho != 10 && t2.whichDrWho == 10)
+            else if (tardis1.whichDrWho != 10 && tardis2.whichDrWho == 10)
                 return false;
 
-            return t1.whichDrWho == t2.whichDrWho;
+            return tardis1.whichDrWho == tardis2.whichDrWho;
         }
 
-        public static bool operator !=(Tardis t1, Tardis t2)
+        public static bool operator !=(Tardis tardis1, Tardis tardis2)
         {
-            return !(t1 == t2);
+            return !(tardis1 == tardis2);
         }
 
-        public static bool operator <(Tardis t1, Tardis t2)
+        public static bool operator <(Tardis tardis1, Tardis tardis2)
         {
-            if (t1 is null)
-                throw new ArgumentNullException(nameof(t1));
-            if (t2 is null)
-                throw new ArgumentNullException(nameof(t2));
+            if (tardis1 is null)
+                throw new ArgumentNullException(nameof(tardis1));
+            if (tardis2 is null)
+                throw new ArgumentNullException(nameof(tardis2));
 
-            if (t1.whichDrWho == 10 && t2.whichDrWho != 10)
+            if (tardis1.whichDrWho == 10 && tardis2.whichDrWho != 10)
                 return false;
-            else if (t1.whichDrWho != 10 && t2.whichDrWho == 10)
+            else if (tardis1.whichDrWho != 10 && tardis2.whichDrWho == 10)
                 return true;
 
-            return t1.whichDrWho < t2.whichDrWho;
+            return tardis1.whichDrWho < tardis2.whichDrWho;
         }
 
-        public static bool operator >(Tardis t1, Tardis t2)
+        public static bool operator >(Tardis tardis1, Tardis tardis2)
         {
-            if (t1 is null)
-                throw new ArgumentNullException(nameof(t1));
-            if (t2 is null)
-                throw new ArgumentNullException(nameof(t2));
+            if (tardis1 is null)
+                throw new ArgumentNullException(nameof(tardis1));
+            if (tardis2 is null)
+                throw new ArgumentNullException(nameof(tardis2));
 
-            if (t1.whichDrWho == 10 && t2.whichDrWho != 10)
+            if (tardis1.whichDrWho == 10 && tardis2.whichDrWho != 10)
                 return true;
-            else if (t1.whichDrWho != 10 && t2.whichDrWho == 10)
+            else if (tardis1.whichDrWho != 10 && tardis2.whichDrWho == 10)
                 return false;
 
-            return t1.whichDrWho > t2.whichDrWho;
+            return tardis1.whichDrWho > tardis2.whichDrWho;
         }
 
-        public static bool operator <=(Tardis t1, Tardis t2)
+        public static bool operator <=(Tardis tardis1, Tardis tardis2)
         {
-            if (t1 is null)
-                throw new ArgumentNullException(nameof(t1));
-            if (t2 is null)
-                throw new ArgumentNullException(nameof(t2));
+            if (tardis1 is null)
+                throw new ArgumentNullException(nameof(tardis1));
+            if (tardis2 is null)
+                throw new ArgumentNullException(nameof(tardis2));
 
-            if (t1.whichDrWho == 10 && t2.whichDrWho != 10)
+            if (tardis1.whichDrWho == 10 && tardis2.whichDrWho != 10)
                 return false;
-            else if (t1.whichDrWho != 10 && t2.whichDrWho == 10)
+            else if (tardis1.whichDrWho != 10 && tardis2.whichDrWho == 10)
                 return true;
 
-            return t1.whichDrWho <= t2.whichDrWho;
+            return tardis1.whichDrWho <= tardis2.whichDrWho;
         }
 
-        public static bool operator >=(Tardis t1, Tardis t2)
+        public static bool operator >=(Tardis tardis1, Tardis tardis2)
         {
-            if (t1 is null)
-                throw new ArgumentNullException(nameof(t1));
-            if (t2 is null)
-                throw new ArgumentNullException(nameof(t2));
+            if (tardis1 is null)
+                throw new ArgumentNullException(nameof(tardis1));
+            if (tardis2 is null)
+                throw new ArgumentNullException(nameof(tardis2));
 
-            if (t1.whichDrWho == 10 && t2.whichDrWho != 10)
+            if (tardis1.whichDrWho == 10 && tardis2.whichDrWho != 10)
                 return true;
-            else if (t1.whichDrWho != 10 && t2.whichDrWho == 10)
+            else if (tardis1.whichDrWho != 10 && tardis2.whichDrWho == 10)
                 return false;
 
-            return t1.whichDrWho >= t2.whichDrWho;
+            return tardis1.whichDrWho >= tardis2.whichDrWho;
         }
     }
 
@@ -171,6 +172,7 @@ namespace Pendergaast_UnitTest2_7
     }
 
 
+    // 6 and 7
 
     class Program
     {
